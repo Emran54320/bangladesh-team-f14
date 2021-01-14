@@ -1,0 +1,207 @@
+<?xml version="1.0" standalone="yes"?>
+<Patch xmlns="http://tempuri.org/Patch.xsd">
+  <PatchIdentity>
+    <Name>Bangladesh Team </Name>
+    <Version>idk</Version>
+    <Description />
+    <CMS />
+  </PatchIdentity>
+  <PatchElements>
+    <Comment />
+    <Type>Team</Type>
+    <ID>130012</ID>
+    <Name>Bangladesh</Name>
+  </PatchElements>
+  <PatchElements>
+    <Comment />
+    <Type>Kit</Type>
+    <ID>1300120</ID>
+    <Name>Bangladesh Home (2922)</Name>
+  </PatchElements>
+  <PatchElements>
+    <Comment />
+    <Type>NumberFont</Type>
+    <ID>21</ID>
+    <Name>Font n. 1 White</Name>
+  </PatchElements>
+  <PatchElements>
+    <Comment />
+    <Type>NameFont</Type>
+    <ID>1</ID>
+    <Name>Name Font n. 1</Name>
+  </PatchElements>
+  <PatchElements>
+    <Comment />
+    <Type>Kit</Type>
+    <ID>1300121</ID>
+    <Name>Bangladesh Away (2923)</Name>
+  </PatchElements>
+  <PatchElements>
+    <Comment />
+    <Type>Kit</Type>
+    <ID>1300122</ID>
+    <Name>Bangladesh GK (2924)</Name>
+  </PatchElements>
+  <PatchElements>
+    <Comment />
+    <Type>Formation</Type>
+    <ID>1</ID>
+    <Name>4-1-3-2</Name>
+  </PatchElements>
+  <PatchElements>
+    <Comment />
+    <Type>Adboard</Type>
+    <ID>1</ID>
+    <Name>Adboard n.   1</Name>
+  </PatchElements>
+  <PatchElements>
+    <Comment />
+    <Type>Player</Type>
+    <ID>50061</ID>
+    <Name>Anisur Rahman</Name>
+  </PatchElements>
+  <PatchElements>
+    <Comment />
+    <Type>Shoes</Type>
+    <ID>2</ID>
+    <Name>adidas Nemeziz 19+ - Locality</Name>
+  </PatchElements>
+  <PatchElements>
+    <Comment />
+    <Type>Player</Type>
+    <ID>50062</ID>
+    <Name>Raihan Hasan</Name>
+  </PatchElements>
+  <PatchElements>
+    <Comment />
+    <Type>Shoes</Type>
+    <ID>1</ID>
+    <Name>adidas COPA 20+ - Locality</Name>
+  </PatchElements>
+  <PatchElements>
+    <Comment />
+    <Type>Player</Type>
+    <ID>50066</ID>
+    <Name>Manjurur Rahman</Name>
+  </PatchElements>
+  <PatchElements>
+    <Comment />
+    <Type>Player</Type>
+    <ID>50067</ID>
+    <Name>Riyadul Hasan</Name>
+  </PatchElements>
+  <PatchElements>
+    <Comment />
+    <Type>Player</Type>
+    <ID>50069</ID>
+    <Name>Rabiul Hasan</Name>
+  </PatchElements>
+  <PatchElements>
+    <Comment />
+    <Type>Shoes</Type>
+    <ID>3</ID>
+    <Name>adidas Predator 20+ - Locality</Name>
+  </PatchElements>
+  <PatchElements>
+    <Comment />
+    <Type>Player</Type>
+    <ID>50075</ID>
+    <Name>Sohel Rana</Name>
+  </PatchElements>
+  <PatchElements>
+    <Comment />
+    <Type>Player</Type>
+    <ID>50077</ID>
+    <Name>Arifur Rahman</Name>
+  </PatchElements>
+  <PatchElements>
+    <Comment />
+    <Type>Player</Type>
+    <ID>50080</ID>
+    <Name>Manik Hossein</Name>
+  </PatchElements>
+  <PatchElements>
+    <Comment />
+    <Type>Player</Type>
+    <ID>50081</ID>
+    <Name>Rakibul Hossein</Name>
+  </PatchElements>
+  <PatchElements>
+    <Comment />
+    <Type>Player</Type>
+    <ID>50084</ID>
+    <Name>Mahbubur Rahman</Name>
+  </PatchElements>
+  <PatchElements>
+    <Comment />
+    <Type>Player</Type>
+    <ID>50086</ID>
+    <Name>Jewel Rana</Name>
+  </PatchElements>
+  <PatchElements>
+    <Comment />
+    <Type>Player</Type>
+    <ID>50060</ID>
+    <Name>Ashraful Islam Rana</Name>
+  </PatchElements>
+  <PatchElements>
+    <Comment />
+    <Type>Player</Type>
+    <ID>50070</ID>
+    <Name>Jamal Bhuyan</Name>
+  </PatchElements>
+  <PatchElements>
+    <Comment />
+    <Type>Player</Type>
+    <ID>50082</ID>
+    <Name>Saad Uddin</Name>
+  </PatchElements>
+  <PatchElements>
+    <Comment />
+    <Type>Player</Type>
+    <ID>50064</ID>
+    <Name>Topu Barman</Name>
+  </PatchElements>
+  <PatchElements>
+    <Comment />
+    <Type>Player</Type>
+    <ID>50078</ID>
+    <Name>Mohammed Ibrahim</Name>
+  </PatchElements>
+  <PatchElements>
+    <Comment />
+    <Type>Player</Type>
+    <ID>50079</ID>
+    <Name>Mamunul Islam</Name>
+  </PatchElements>
+  <PatchElements>
+    <Comment />
+    <Type>Player</Type>
+    <ID>50083</ID>
+    <Name>Motin Mia</Name>
+  </PatchElements>
+  <PatchElements>
+    <Comment />
+    <Type>Player</Type>
+    <ID>50085</ID>
+    <Name>Nabib Newaz Jibon</Name>
+  </PatchElements>
+  <PatchElements>
+    <Comment />
+    <Type>Player</Type>
+    <ID>50063</ID>
+    <Name>Rahmat Mia</Name>
+  </PatchElements>
+  <PatchElements>
+    <Comment />
+    <Type>Player</Type>
+    <ID>50073</ID>
+    <Name>Biswanath Ghosh</Name>
+  </PatchElements>
+  <PatchElements>
+    <Comment />
+    <Type>Player</Type>
+    <ID>50065</ID>
+    <Name>Yeasin Khan</Name>
+  </PatchElements>
+</Patch>
